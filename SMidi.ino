@@ -1,3 +1,17 @@
+// SMidi Arduino source
+//
+// Project home:https://hackaday.io/project/25561
+// Author:  https://hackaday.io/daren
+
+// Creative Commons License exists for this work. You may copy and alter the content
+// of this file for private use only, and distribute it only with the associated
+// Blooming Rose content. This license must be included with the file and content.
+
+// This work is licensed under the Creative Commons Attribution 2.0 Generic License. To view a copy of this license
+// visit http://creativecommons.org/licenses/by/2.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+
+
 #include <ResponsiveAnalogRead.h>
 
 const int pinCount = 16;
